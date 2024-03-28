@@ -1,0 +1,44 @@
+﻿body {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.leftbox1 {
+    float: left;
+    width: 25%;
+    height: 280px;
+}
+
+.middlebox1 {
+    float: left;
+    text-align: center;
+    width: 50%;
+    height: 280px;
+}
+
+.rightbox1 {
+    float: right;
+    width: 25%;
+    height: 280px;
+}
+
+
+.img {
+    width: 325px;
+    height: 200px;
+}
+
+h3{
+    color: blue;
+}
+
+
+.container34 {
+    border-radius: 5px;
+    background-color: lavender;
+    padding: 20px;
+    margin-right: 60px;
+    width: 720px;
+    height: 650px;
+}
+
